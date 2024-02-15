@@ -1,6 +1,6 @@
-package com.github.giandemanincor.javacore.Ioverride.test;
+package com.github.giandemanincor.javacore.Loverride.test;
 
-import com.github.giandemanincor.javacore.Ioverride.domain.Anime;
+import com.github.giandemanincor.javacore.Loverride.domain.Anime;
 
 public class AnimeTest {
     public static void main(String[] args) {
