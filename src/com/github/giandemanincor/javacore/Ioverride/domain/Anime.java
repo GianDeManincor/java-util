@@ -1,4 +1,4 @@
-package com.github.giandemanincor.javacore.Loverride.domain;
+package com.github.giandemanincor.javacore.Ioverride.domain;
 
 public class Anime {
     private String name;
